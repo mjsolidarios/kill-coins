@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AF37401F-F2B5-9843-6957-6A367D85FC2D}") = "kill-coins", "Assembly-CSharp.csproj", "{49728F71-DE40-D765-0625-7C3A401D71CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49728F71-DE40-D765-0625-7C3A401D71CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49728F71-DE40-D765-0625-7C3A401D71CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49728F71-DE40-D765-0625-7C3A401D71CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49728F71-DE40-D765-0625-7C3A401D71CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
