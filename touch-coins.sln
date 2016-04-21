@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C961E671-1850-74EE-9111-F84C1AC066C8}") = "touch-coins", "Assembly-CSharp.csproj", "{E1B08EE5-246C-D3F7-B5AD-0428643EFD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1B08EE5-246C-D3F7-B5AD-0428643EFD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1B08EE5-246C-D3F7-B5AD-0428643EFD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1B08EE5-246C-D3F7-B5AD-0428643EFD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1B08EE5-246C-D3F7-B5AD-0428643EFD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
